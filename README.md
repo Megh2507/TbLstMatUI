@@ -1,3 +1,5 @@
+<!-- In this project I have made two components one is for list view and another one is for table view  -->
+we can click on list icon to see user deails in list format and can table icon to see user details in table format
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
